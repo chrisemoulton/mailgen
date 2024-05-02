@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/eladnava/mailgen#readme",
   "dependencies": {
-    "ejs": "^2.4.2",
+    "ejs": "^3.1.10",
     "juice": "^2.0.0"
   }
 }
